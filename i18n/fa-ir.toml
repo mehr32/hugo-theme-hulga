@@ -1,0 +1,36 @@
+[categories]
+other = "دسته‌ها"
+
+[tags]
+other = "برچسب‌ها"
+
+[search]
+other = "جستجو"
+
+[archives]
+other = "آرشیو"
+
+[archives_count]
+one = "در این وبلاگ {{ .Count }} مقاله وجود دارد"
+other = "در این وبلاگ {{ .Count }} مقاله وجود دارد"
+
+[404-info]
+other = "صفحه پیدا نشد، لطفاً URL را بررسی کنید"
+
+[prev_page]
+other = "قبلی"
+
+[next_page]
+other = "بعدی"
+
+[read_more]
+other = "بیشتر بخوانید"
+
+[light-mode]
+other = "حالت روشن"
+
+[dark-mode]
+other = "حالت تاریک"
+
+[system-mode]
+other = "حالت سیستم"

@@ -56,4 +56,7 @@
   {{- if .Site.Params.pwa }}
   <link rel="manifest" href="/manifest.json">
   {{- end }}
+  {{ if eq .Site.Language.Lang "fa-ir" }}
+  <link rel="stylesheet" href="{{ "css/rtl.css" | relURL }}">
+  {{ end }}
 </head>

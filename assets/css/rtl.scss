@@ -1,0 +1,30 @@
+// RTL Base Styles
+body {
+    direction: rtl;
+    text-align: right;
+}
+
+// Fix floats
+.float-left { float: right !important; }
+.float-right { float: left !important; }
+
+// Fix margins
+.ml-3 { margin-right: 1rem !important; margin-left: 0 !important; }
+.mr-3 { margin-left: 1rem !important; margin-right: 0 !important; }
+
+// Navbar fixes
+.navbar-menu {
+    direction: rtl;
+    justify-content: flex-start;
+}
+
+// Post content alignment
+.post-content {
+    text-align: justify;
+    word-wrap: break-word;
+}
+
+// Fix Bulma RTL issues
+.is-pulled-left { float: right !important; }
+.is-pulled-right { float: left !important; }
+.columns { direction: rtl; }

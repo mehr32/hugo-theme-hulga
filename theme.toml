@@ -1,7 +1,7 @@
 name = 'hulga'
 license = 'MIT'
 licenselink = 'https://github.com/wlh320/hugo-theme-hulga/blob/master/LICENSE'
-description = 'A simple hugo blog theme based on bulma'
+description = 'یک تم ساده وبلاگ هوگو بر اساس bulma'
 
 # The home page of the theme, where the source can be found
 homepage = 'https://github.com/wlh320/hugo-theme-hulga'
